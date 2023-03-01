@@ -1,2 +1,2 @@
-# mlwebJupyter
-Jupyter user script for mlweb enabled browser
+# STCJupyter
+Jupyter user script that allows marshaling of Combine messages in and out CombineWebView, launch and connection to STCDataPython in python core.
